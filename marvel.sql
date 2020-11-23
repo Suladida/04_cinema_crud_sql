@@ -91,4 +91,4 @@ UPDATE movies SET show_time = '20:45' WHERE title = 'Iron Man 3';
 -- Research how to delete multiple entries from your table in a single command.
 
 DELETE FROM people WHERE name IN ('Homer Simpson', 'Marge Simpson');
-SELECT * from people;
+
